@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cuw:home|Door43 (cuw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cuw|d43-cuw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cuw/archive/master.zip|d43-cuw.zip]]
+
+**Recent Changes**
+{{changes>ns = cuw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cuw|Ethnologue data]]
+
